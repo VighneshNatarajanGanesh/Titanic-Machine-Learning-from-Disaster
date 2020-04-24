@@ -5,7 +5,7 @@ This is the first version of the solution with no data augmentation. It is just 
 
  iteration over different NN sizes:
 
- |hidden layer size   |train_loss    |train_accuracy   |dev_loss   |dev_accuracy  |dropout          | inference               |
+ |Hidden layer size   |train_loss    |train_accuracy   |dev_loss   |dev_accuracy  |dropout          | Inference               |
  |--------------------|--------------|-----------------|-----------|--------------|-----------------|-------------------------|
  |15 10 10 10         |0.4592        |0.8069           |0.4386     |0.7982        |no overfitting   |                         |
  |15 10               |0.4171        |0.8204           |0.4153     |0.8161        |no overfitting   |                         |
