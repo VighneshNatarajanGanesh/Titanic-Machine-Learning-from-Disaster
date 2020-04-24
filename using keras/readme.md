@@ -1,7 +1,7 @@
-#Readme
+#Readme#
 This is the first version of the solution with no data augmentation. It is just a simple and quick solution using keras
 
-##Different accuracy scores with different models:
+##Different accuracy scores with different models:##
 
  iteration over different NN sizes:
 
